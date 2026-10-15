@@ -1,0 +1,7 @@
+{
+  "feeds": [
+    "https://www.nasa.gov/feed/",
+    "https://blog.cloudflare.com/rss/",
+    "https://github.com/apify/crawlee/releases.atom"
+  ]
+}

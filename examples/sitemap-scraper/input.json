@@ -1,0 +1,6 @@
+{
+  "startUrls": [
+    "https://apify.com"
+  ],
+  "maxUrlsPerSite": 500
+}

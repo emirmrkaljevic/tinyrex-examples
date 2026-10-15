@@ -1,0 +1,10 @@
+{
+  "name": "tinyrex-examples",
+  "private": true,
+  "type": "module",
+  "description": "Examples for TinyRex actors on the Apify Store",
+  "license": "MIT",
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  }
+}
