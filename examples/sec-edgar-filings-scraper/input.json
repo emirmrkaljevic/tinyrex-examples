@@ -1,0 +1,11 @@
+{
+  "companies": [
+    "AAPL",
+    "TSLA"
+  ],
+  "formTypes": [
+    "10-K",
+    "8-K"
+  ],
+  "maxFilingsPerCompany": 5
+}
